@@ -58,5 +58,3 @@ After analyzing a large sample of TikTok users' reviews and ratings generated fr
 **Conclusion**
 
 Conducting sentiment analysis on TikTok users' reviews and ratings using Python can provide valuable insights into user perceptions of the app. By analyzing the language used in these reviews, it is possible to determine the overall sentiment towards the app and identify areas where improvements could be made to enhance user satisfaction.
-
-​
