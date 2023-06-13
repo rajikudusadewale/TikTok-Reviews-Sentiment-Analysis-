@@ -10,7 +10,7 @@ Users can also interact with other users' videos by commenting, liking, and shar
 The **goal of sentiment analysis** is to identify and extract subjective information from the text, such as whether the text expresses a positive, negative, or neutral sentiment or opinion.
 Let's analyze TikTok Reviews to find out what people feel about the content of this app.
 
-This project will go through the task of **TikTok reviews sentiment analysis.**
+This project will go through the task of **TikTok reviews sentiment analysis.
 The dataset I am gonna use for sentiment analysis was downloaded from kaggle. It was scrapped from TikTok reviews on Google play store and it has been processed to a format that fit for sentiment analysis, though more data manipulations would be done.
 
 *You can download the data here;  (https://www.kaggle.com/datasets/shivkumarganesh/tiktok-google-play-store-review/download?datasetVersionNumber=3)*
